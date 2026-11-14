@@ -23,3 +23,16 @@ This directory contains C exercises about pointers, arrays and strings.
 ## Compilation
 
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
+
+## More string functions
+
+| File | Description |
+|------|-------------|
+| 0-strcat.c | Concatenates two strings |
+| 1-strncat.c | Concatenates at most n bytes of a string |
+| 2-strncpy.c | Copies at most n bytes of a string |
+| 3-strcmp.c | Compares two strings |
+| 4-rev_array.c | Reverses an array of integers |
+| 5-string_toupper.c | Changes lowercase letters to uppercase |
+| 6-cap_string.c | Capitalizes all words of a string |
+| 7-leet.c | Encodes a string into 1337 |
